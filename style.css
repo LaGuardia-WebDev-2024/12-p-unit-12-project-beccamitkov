@@ -7,8 +7,26 @@ html {
 
 img{
   border-radius: 30px;
+  margin-top: 15px;
+  width: 125px;
 }
 
 h1 {
-  font-family: "Poetsen One", sans-serif;
+  font-family: "Arial", sans-serif;
+  color:pink;
+
+}
+p{
+  font-family: "Lucida Handwriting", cursive;
+  font-size: 20px;
+    color:red;
+}
+
+button {
+  background-color: lightblue;
+  border: none;
+  padding: 15px;
+  margin: 5px;
+  font-family: "Helvetica", sans-serif;
+  border-radius: 10px;
 }
